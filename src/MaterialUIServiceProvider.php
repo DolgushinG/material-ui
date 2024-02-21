@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxlwqq\MaterialUI;
+namespace DolgushingG\MaterialUI;
 
 use Encore\Admin\Admin;
 use Illuminate\Support\ServiceProvider;
