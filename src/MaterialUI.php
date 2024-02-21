@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxlwqq\MaterialUI;
+namespace DolgushinG\MaterialUI;
 
 use Encore\Admin\Extension;
 
