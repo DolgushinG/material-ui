@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/material-ui",
+    "name": "dolgushing/material-ui",
     "description": "material ui for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/material-ui",
+    "homepage": "https://github.com/dolgushing/material-ui",
     "license": "MIT",
     "authors": [
         {
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Jxlwqq\\MaterialUI\\": "src/"
+            "DolgushinG\\MaterialUI\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jxlwqq\\MaterialUI\\MaterialUIServiceProvider"
+                "DolgushinG\\MaterialUI\\MaterialUIServiceProvider"
             ]
 
         }
